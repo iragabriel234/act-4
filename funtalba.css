@@ -1,0 +1,105 @@
+body
+{
+background-color:gray;
+}
+.main1
+{
+     font-size:30px;
+     color:white;
+     width:500px;
+     height: 300px;
+     background-color:lightblue;
+     float:left;
+}
+.main2
+{
+     font-size:30px;
+     margin-left:500px;
+     width:500px;
+     height: 300px;
+     background-color:hotpink;
+ }
+.main2 p.mainp2
+{     float:left;
+}
+
+p.sample1
+{  font-size:30px;
+     color:white;
+    border:10px solid lightblue;
+}
+p.sample2
+{  font-size:30px;
+     color:white;
+  border:10px dashed lightblue;
+}
+p.sample3
+{  font-size:30px;
+     color:white;
+  border:10px dotted lightblue;
+}
+p.sample4
+{  font-size:30px;
+     color:white;
+  border:10px ridge lightblue;
+}
+p.sample5
+{  font-size:30px;
+     color:white;
+  border:10px groove lightblue;
+}
+p.sample6
+{  font-size:30px;
+     color:white;
+  border:10px inset lightblue;
+}
+p.sample7
+{  font-size:30px;
+     color:white;
+  border:10px outset lightblue;
+}
+p.sample8
+{  font-size:30px;
+     color:white;
+  border:10px double lightblue;
+}
+.parako p.p1
+{
+     font-size:20px;
+     color:white;
+     width:500px;
+     height: 300px;
+     background-color:lightblue;
+    overflow:scroll;
+
+    padding:50px 50px 50px 0px;
+}
+
+.parako1 p.p2
+{
+     font-size:20px;
+     color:lightblue;
+     width:500px;
+     height: 300px;
+     background-color:pink;
+      padding: 50px 50px 50px 50px; 
+      border:30px solid lightblue;
+     margin: 0px 100px 500px 100px; 
+   text-shadow:2px  2px  20px black;
+ 
+ }
+a
+{font-size:30px;
+}
+a:hover
+{
+  color:gold;
+  font-size:50px;
+  width:100px;
+   height:50px;
+  background-color:white;
+
+}
+
+
+
